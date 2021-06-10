@@ -4,13 +4,14 @@
 
   
 - 👀 I’m interested in software-development related stuff..<br><br>
-- 🌱 I’m currently learning Typescript<br><br>
-- 💞️ I’m looking to collaborate on - Nothing really, just on my own right now<br><br>
+- 🌱 I’m currently learning Typescript, SpringBoot etc.<br><br>
+- 💞️ I’m looking to collaborate on - Nothing really, just on my own right now.<br><br>
 
 </h3>
-Languages I Use--
+
 
 <br/><br/>
+### 👋 Languages I Use--
 <div align="center">
   
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
