@@ -37,6 +37,8 @@
 <br/>
 <div align="center">
 <img src="https://img.shields.io/badge/Java-DD0031?style=for-the-badge&logo=java&logoColor=white"/>
+  
+<img src="https://img.shields.io/badge/React-0769AD?style=for-the-badge&logo=react&logoColor=white"/>
 
 </div>
 <br/>
