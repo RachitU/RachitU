@@ -4,7 +4,7 @@
 
   
 - 👀 I’m interested in software-development related stuff..<br><br>
-- 🌱 I’m currently learning Typescript, SpringBoot etc.<br><br>
+- 🌱 I’m currently learning Typescript, ASP.NET etc.<br><br>
 - 💞️ I’m looking to collaborate on - Java Projects, Web Development, Discord Bot Development, Python Projects etc<br><br>
 
 </h3>
