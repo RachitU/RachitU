@@ -4,7 +4,7 @@
 
   
 - 👀 I’m interested in software-development related stuff..<br><br>
-- 🌱 I’m currently learning ASP.NET,Spring Boot
+- 🌱 I’m currently learning Django.
   
  .<br><br>
 - 💞️ I’m looking to collaborate on - Java Projects, Web Development, Discord Bot Development, Python Projects etc<br><br>
