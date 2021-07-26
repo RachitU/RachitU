@@ -53,10 +53,7 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crytios&layout=compact&theme=radical&border_radius=10" alt="Most Languages"/>
 </a>
-<a href="https://crytios.netlify.com">
- 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Crytios&repo=CrypticWeb&theme=radical&border_radius=10" alt="Website" />
-</a>
+
 
 <!---
 <a href="https://github.com/anuraghazra/github-readme-stats">
