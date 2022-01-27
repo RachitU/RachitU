@@ -4,15 +4,13 @@
 
   
 - 👀 I’m interested in software-development related stuff..<br><br>
-- 🌱 I’m currently learning Angular.
-  
- .<br><br>
-- 💞️ I’m looking to collaborate on - Java Projects, Web Development, Discord Bot Development, Python Projects etc<br><br>
 
+ <br>
+- 💞️ I’m looking to collaborate on - Java Projects, Web Development, Discord Bot Development, Python Projects etc<br><br>
 </h3>
 
 
-<br/><br/>
+<br/>
 ### 👋 Languages I Use--
 <div align="center">
   
