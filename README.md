@@ -25,7 +25,7 @@
 <div align="center">
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://c0.klipartz.com/pngpicture/724/306/gratis-png-logotipo-de-c-icono-de-lenguaje-de-programacion-c-letra-c-thumbnail.png"/>
 
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 </div>
