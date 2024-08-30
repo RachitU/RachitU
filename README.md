@@ -1,4 +1,5 @@
 ### 👋 Hi, I’m [Crytios](https://crytios.netlify.com)<br><br>
+p align="left"> <img src="https://komarev.com/ghpvc/?username=Crytios&label=Profile%20views&color=0e75b6&style=flat" alt="Crytios" /> </p>
 <h3>
   
 
