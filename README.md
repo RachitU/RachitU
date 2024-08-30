@@ -4,7 +4,7 @@
   
 
   
-- 👀 I’m interested in software-development related stuff..<br><br>
+- 👀 I'm keen on exploring areas related to software development.<br><br>
 
  <br>
 - 💞️ I’m looking to collaborate on - Java Projects, Web Development, Discord Bot Development, Python Projects etc<br><br>
@@ -31,7 +31,7 @@
 <br/>
 <div align="center">
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+
 </div>
 <br/>
 <div align="center">
