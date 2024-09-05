@@ -2,17 +2,13 @@
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=Crytios&label=Profile%20views&color=0e75b6&style=flat" alt="Crytios" /> </p>-->
 <h3>
   
-
-  
-- 👀 I'm keen on exploring areas related to software development.<br><br>
-
  <br>
 - 💞️ I’m looking to collaborate on - Java Projects, Web Development, Discord Bot Development, Python Projects etc<br><br>
 </h3>
 
 
 <br/>
-### 👋 Languages I Use--
+👋 Languages I Use--
 <div align="center">
   
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
