@@ -1,4 +1,4 @@
-### 👋 Hi, I’m [Rachit])<br><br>
+### 👋 Hi, I’m Rachit<br><br>
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=Crytios&label=Profile%20views&color=0e75b6&style=flat" alt="Crytios" /> </p>-->
 Welcome to my GitHub! 
 <br/>
