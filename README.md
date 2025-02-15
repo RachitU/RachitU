@@ -1,14 +1,17 @@
-### 👋 Hi, I’m [Rachit](https://crytios.netlify.com)<br><br>
+### 👋 Hi, I’m [Rachit])<br><br>
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=Crytios&label=Profile%20views&color=0e75b6&style=flat" alt="Crytios" /> </p>-->
-<h3>
-  
- <br>
-- 💞️ I’m looking to collaborate on - Java Projects, Web Development, Discord Bot Development, Python Projects etc<br><br>
-</h3>
-
+Welcome to my GitHub! 
+<br/>
+<br/>
+🚀 **What I do:**  
+- Build web applications using modern frameworks  
+- Work on AI/ML projects  
+- Explore system programming with C/C++  
+- Solve DSA problems to improve problem-solving skills
+<br/>
 
 <br/>
-👋 Languages I Use--
+👋Languages I Use--
 <div align="center">
   
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -29,15 +32,15 @@
 
 
 
-<a href="https://www.github.com/Crytios">
+<a href="https://github.com/RachitU">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crytios&layout=compact&theme=radical&border_radius=10" alt="Most Languages"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RachitU&layout=compact&theme=radical&border_radius=10" alt="Most Languages"/>
 </a>
 
 </br>
 </br>
-<a href="https://www.github.com/Crytios">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Crytios&show_icons=true&theme=radical&border_radius=10" alt="Crytios's Github Stats" />
+<a href="https://github.com/RachitU">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RachitU&show_icons=true&theme=radical&border_radius=10" alt="Crytios's Github Stats" />
 </a>
 </br>
 
